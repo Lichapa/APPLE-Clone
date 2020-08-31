@@ -1,4 +1,17 @@
 body {
-  /* background-image: url(../images/background.jpg); */
+}
+nav {
+  display: flex;
+  flex-direction: row;
+  width: 836px;
+  top: 100px;
+  height: 36px;
+  margin: auto;
+  background-color: black;
+  justify-content: center;
+}
+.main-header {
+  background-image: url(../images/background.jpg);
   background-repeat: no-repeat;
+  height: 538px;
 }

@@ -25,6 +25,10 @@ footer a {
   font-size: 13px;
 }
 
+.semi-footer a {
+  width: 25%;
+}
+
 footer a:hover {
   text-decoration: underline;
 }
@@ -134,7 +138,7 @@ i.fa-apple {
 }
 
 .semi-footer img {
-  width: 25%;
+  width: 100%;
   height: auto;
 }
 

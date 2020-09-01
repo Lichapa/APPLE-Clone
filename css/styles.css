@@ -32,7 +32,6 @@ header {
   height: 36px;
   width: 900px;
   display: flex;
-  /* justify-content: space-around; */
   align-items: center;
   margin: 0;
 }
@@ -56,13 +55,14 @@ header {
   font-family: "Lucida Grande", "Lucida Sans Regular", Verdana, sans-serif;
 }
 
+.navbar li a:hover {
+  background-color: #858585;
+}
+
 i.fa-apple {
   font-size: 20px;
 }
 
-.nav-search {
-  /* width: 120px; */
-}
 .nav-search input {
   margin-left: 11px;
   margin-bottom: 15px;
@@ -76,10 +76,11 @@ i.fa-apple {
 
 .nav-search i {
   position: relative;
-  top: 19px;
-  left: -25px;
+  top: 20px;
+  left: -20px;
   width: 15px;
   height: 14px;
+  font-size: 12px;
 }
 
 .main-header {
@@ -90,4 +91,12 @@ i.fa-apple {
   position: relative;
   left: 13%;
   top: 30%;
+}
+
+.main-header .second-img {
+  margin-top: -20px;
+}
+
+.main-header .last-img {
+  padding-top: 15px;
 }

@@ -1,0 +1,163 @@
+body {
+  width: 100%;
+  box-sizing: border-box;
+  margin: auto;
+  font-family: "Lucida Grande", "Lucida Sans Regular", Verdana, sans-serif;
+}
+
+footer {
+  width: 980px;
+  margin: 15px auto auto auto;
+  font-size: 9px;
+  height: 70px;
+  color: #6e6e6e;
+}
+
+footer a {
+  text-decoration: none;
+  color: #08c;
+}
+
+.navbar a {
+  text-decoration: none;
+  padding-right: 5px;
+  color: #fff;
+  font-size: 13px;
+}
+
+.semi-footer a {
+  width: 25%;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
+
+.container {
+  background-image: url(../images/background.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50% 100%;
+  height: 518px;
+}
+
+.navbar {
+  position: relative;
+  top: 90px;
+  margin: 0 auto;
+  display: block;
+  width: 980px;
+  height: 36px;
+  border-radius: 4px;
+  background: linear-gradient(#858585, #717171 50%, #5e5e5e 50%, #777);
+}
+
+.navbar ul {
+  height: 36px;
+  width: 900px;
+  display: flex;
+  align-items: center;
+  margin: 0;
+}
+
+.navbar li {
+  list-style-type: none;
+  padding: 0;
+  line-height: 1;
+  width: 11%;
+  text-align: center;
+}
+
+.nav-link {
+  border-right: 1px solid #4f4f4f;
+}
+
+.navbar li a:hover {
+  background-color: #858585;
+}
+
+i.fa-apple {
+  font-size: 20px;
+}
+
+.nav-search input {
+  margin-left: 11px;
+  margin-bottom: 15px;
+  left: 5px;
+  width: 105px;
+  height: 19px;
+  border-radius: 50px;
+  border: 1px solid #858585;
+  background: linear-gradient(#858585, #717171 50%, #5e5e5e 50%, #777);
+}
+
+.nav-search i {
+  position: relative;
+  top: 20px;
+  left: -20px;
+  width: 15px;
+  height: 14px;
+  font-size: 12px;
+}
+
+.main-header {
+  margin-top: 150px;
+  width: 980px;
+  display: block;
+}
+
+.main-header img {
+  position: relative;
+  left: 13%;
+  top: 30%;
+}
+
+.second-img {
+  margin-top: -20px;
+}
+
+.last-img {
+  padding-top: 15px;
+  height: 35px;
+  object-fit: cover;
+  object-position: 0 -3%;
+  width: 980px;
+}
+
+.last-img:hover {
+  padding-top: 15px;
+  height: 35px;
+  object-fit: cover;
+  object-position: 0 100%;
+  width: 980px;
+}
+
+/* Main */
+.semi-footer {
+  display: flex;
+}
+
+.semi-footer img {
+  width: 100%;
+  height: auto;
+}
+
+/* footer */
+
+.footer-container,
+.footer-links {
+  display: flex;
+}
+
+.footer-links li {
+  list-style: none;
+  padding-left: 6px;
+}
+
+.flag {
+  margin-top: -3px;
+}
+
+.footer-bottom {
+  margin-top: -2px;
+}

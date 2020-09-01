@@ -18,8 +18,8 @@ body {
   height: 37px;
   margin-left: auto;
   margin-right: auto;
-  background: rgb(238,174,202);
-background: radial-gradient(#838181 0%, rgb(136, 133, 133) 100%);
+  background: linear-gradient(#858585, #717171 50%, #5e5e5e 50%, #777);
+
   
 }
 

@@ -4,6 +4,30 @@ body {
   font-family: "Lucida Grande", "Lucida Sans Regular", Verdana, sans-serif;
 }
 
+footer {
+  width: 980px;
+  margin: 15px auto auto auto;
+  font-size: 10px;
+  height: 70px;
+  color: #6e6e6e;
+}
+
+footer a {
+  text-decoration: none;
+  color: #08c;
+}
+
+.navbar a {
+  text-decoration: none;
+  padding-right: 5px;
+  color: #fff;
+  font-size: 13px;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
+
 .container {
   background-image: url(../images/background.jpg);
   background-size: cover;
@@ -41,13 +65,6 @@ body {
 
 .nav-link {
   border-right: 1px solid #4f4f4f;
-}
-
-.navbar a {
-  text-decoration: none;
-  padding-right: 5px;
-  color: #fff;
-  font-size: 13px;
 }
 
 .navbar li a:hover {
@@ -110,12 +127,9 @@ i.fa-apple {
   width: 980px;
 }
 
-
-
 /* Main */
 .semi-footer {
   display: flex;
-
 }
 
 .semi-footer img {
@@ -124,22 +138,6 @@ i.fa-apple {
 }
 
 /* footer */
-footer {
-  width: 980px;
-  margin: 15px auto auto auto;
-  font-size: 10px;
-  height: 70px;
-  color: #6e6e6e;
-}
-
-footer a {
-  text-decoration: none;
-  color: #08c;
-}
-
-footer a:hover {
-  text-decoration: underline;
-}
 
 .footer-container,
 .footer-links {

@@ -16,7 +16,8 @@ body {
   justify-content: center;
   width: 836px;
   height: 37px;
-  margin: auto;
+  margin-left: auto;
+  margin-right: auto;
   background: rgb(238,174,202);
 background: radial-gradient(#838181 0%, rgb(136, 133, 133) 100%);
   

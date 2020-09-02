@@ -31,6 +31,7 @@ This project consists of building a webpage using images as a background and add
 - Github: [@DeliceLydia](https://github.com/DeliceLydia)
 - Twitter: [@IngabireLydia3](https://twitter.com/IngabireLydia)
 - Linkedin: [Delice Lydia](https://www.linkedin.com/in/delice-lydia-91b55b167/)
+
 ​
 👤 **Author2**
 ​

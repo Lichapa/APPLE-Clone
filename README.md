@@ -21,7 +21,7 @@ This project consists of building a webpage using images as a background and add
 - CSS
 ​
 ## Live Demo
-[Live Demo Link](https://lichapa.github.io/APPLE-Clone/
+[Live Demo Link](https://lichapa.github.io/APPLE-Clone/index.html
 )
 ​
 ## Authors

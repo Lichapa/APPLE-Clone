@@ -1,13 +1,14 @@
 body {
   width: 100%;
   box-sizing: border-box;
+  margin: auto;
   font-family: "Lucida Grande", "Lucida Sans Regular", Verdana, sans-serif;
 }
 
 footer {
   width: 980px;
   margin: 15px auto auto auto;
-  font-size: 10px;
+  font-size: 9px;
   height: 70px;
   color: #6e6e6e;
 }
